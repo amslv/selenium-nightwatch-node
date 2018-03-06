@@ -1,0 +1,22 @@
+{
+  "name": "selenium-nightwatch-node",
+  "version": "1.0.0",
+  "description": "Automation Testing Framework in Javascript, Selenium with Nightwatch.js",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amslv/selenium-nightwatch-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amslv/selenium-nightwatch-node/issues"
+  },
+  "homepage": "https://github.com/amslv/selenium-nightwatch-node#readme",
+  "dependencies": {
+    "nightwatch": "^0.9.20"
+  }
+}
